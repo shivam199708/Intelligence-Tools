@@ -7,7 +7,7 @@ The first two dashboard are created using the power BI
 
 ![image](https://github.com/shivam199708/Intelligence-Tools/assets/101977665/56a0f325-07d1-4122-afcc-bb87a0931410)
 
-These are created using the Tableau 
+## These dashboars are created using the Tableau 
 
 ![image](https://github.com/shivam199708/Intelligence-Tools/assets/101977665/ada4a51a-3804-400e-9117-67a6ffc6fdb5)
 
